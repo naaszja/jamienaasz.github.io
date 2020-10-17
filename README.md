@@ -1,2 +1,2 @@
-# jamienaasz.github.io
+# naaszja.github.io
 EDA Project
