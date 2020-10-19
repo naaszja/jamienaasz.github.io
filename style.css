@@ -1,6 +1,11 @@
+h1{
+  font-size: 80px;
+  text-align: center;
+  color: yellow;
+}
 p{
   font-family: Palatino, 'Palatino Linotype', serif;
-  font-size: 54px;
-  text-align: center;
+  font-size: 0.75rem;
+  text-align: left;
   color: red;
 }
