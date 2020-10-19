@@ -1,11 +1,12 @@
-h1{
+body{
+  font-family: Times New Roman;
   font-size: 80px;
   text-align: center;
   color: yellow;
 }
 p{
   font-family: Palatino, 'Palatino Linotype', serif;
-  font-size: 0.75rem;
+  font-size: 1.75rem;
   text-align: left;
   color: red;
 }
