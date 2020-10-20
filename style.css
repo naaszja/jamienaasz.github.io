@@ -1,11 +1,7 @@
 body{
-  background-image: url("https://unsplash.com/photos/JPQwuciINLY");
-  font-family: Times New Roman, arial;
+   font-family: Times New Roman, arial;
   font-size: 48px;
   text-align: left;
   color: black, #282828;
 }
-p{
-  text-align: left;
-  color: black, #282828;
-}
+
