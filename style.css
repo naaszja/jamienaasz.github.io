@@ -6,7 +6,8 @@ body{
 }
 
 header{
-text-align: left;
+   text-align: left;
    color: black;
+   margin: 0.5rem;
 }
 
