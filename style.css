@@ -2,10 +2,10 @@ body{
   background-image: url("https://unsplash.com/photos/JPQwuciINLY");
   font-family: Times New Roman;
   font-size: 50px;
-  text-align: center;
+  text-align: left;
   color: green;
 }
 p{
-  text-align: center;
+  text-align: left;
   color: red;
 }
