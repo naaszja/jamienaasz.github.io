@@ -18,14 +18,15 @@ h2 {
   margin: 0;
 }
 
-.header img { 
-  z-index: 1;
+.header img {
+  position: absolute;
+  z-index: 2;
   float: right;
   border: 5px solid white;
 }
 
 .main {
-  color: #f06d06;
-  position: relative;
+  position: absolute;
+  z-index: 1;
   background: url("halloween.jpg") no-repeat; background-size: cover;
 }
