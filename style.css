@@ -19,12 +19,13 @@ h2 {
 }
 
 .header img { 
-  z-index: 9999;
+  z-index: 1;
   float: right;
   border: 5px solid white;
 }
 
 .main {
+  color: #f06d06;
   position: relative;
   background: url("halloween.jpg") no-repeat; background-size: cover;
 }
