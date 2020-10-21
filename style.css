@@ -19,5 +19,6 @@ h2 {
 }
 
 .header img {
+  border: 5px solid #f06d06
   float: right;
 }
