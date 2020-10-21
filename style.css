@@ -17,3 +17,7 @@ h2 {
   font-size: 32px;
   margin-bottom: 0;
 }
+
+.header img {
+  float: right;
+}
