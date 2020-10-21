@@ -6,6 +6,7 @@ body {
   background: #f06d06;
   color: white;
   text-align: left;
+  font-weight: bold;
 }
 
 h1 {
@@ -28,4 +29,6 @@ h2 {
   color: #f06d06;
   z-index: 1;
   background: url("halloween.jpg") no-repeat;
+  background-size: auto;
 }
+
