@@ -9,7 +9,10 @@ body{
 header{
    text-align: left;
    color: black;
-   margin: 0.5rem;
+}
+
+h2{
+margin: 0.5rem;
 }
 
 p{
