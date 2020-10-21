@@ -18,7 +18,8 @@ h2 {
   margin: 0;
 }
 
-.header img {  
+.header img { 
+  z-index: 9999;
   float: right;
   border: 5px solid white;
 }
