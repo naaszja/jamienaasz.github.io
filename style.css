@@ -1,3 +1,4 @@
+background-image= (img src="Arya Max2.jpg" style="float right";)
 body {
   margin-top: 54px;
   padding-left: 244px;
@@ -6,6 +7,7 @@ body {
   background: #f06d06;
   color: white;
   text-align: left;
+  background-image= (img src="halloween.jpg";)
 }
 
 h1 {
