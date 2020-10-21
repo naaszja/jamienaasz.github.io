@@ -29,6 +29,6 @@ h2 {
   color: #f06d06;
   z-index: 1;
   background: url("halloween.jpg") no-repeat;
-  background-size: auto;
+  background-size: 500px 300px;
 }
 
