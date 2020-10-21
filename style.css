@@ -20,4 +20,6 @@ h2 {
 
 .header img {
   float: right;
+  top: 0;
+  right: 0;
 }
