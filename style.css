@@ -4,6 +4,7 @@ body {
   padding-right: 244px;
   font-family: Helvetica, Arial;
   background: #f06d06;
+  background-image: url("halloween.jpg");
   color: white;
   text-align: left;
 }
@@ -18,7 +19,11 @@ h2 {
   margin-bottom: 0;
 }
 
-.header img {
+.header img {  
   float: right;
   border: 5px solid white;
 }
+
+.skills li{
+  display: inline-block;
+ }
