@@ -28,6 +28,6 @@ h2 {
 .main {
   color: #f06d06;
   z-index: 1;
-  background: url("halloween.jpg") no-repeat; background-size: cover;
+  background: url("halloween.jpg") no-repeat; background-size: cover; background-position: center;
 }
 
